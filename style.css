@@ -1,5 +1,6 @@
 body{
-    text-align: center;
+   text-align: center;
+   background-color:beige;
 }
 /*
 =================================================
@@ -49,12 +50,11 @@ BOOKMARKS
  }
  .bookmarks i:hover{
     font-size:72px;
-    position:relative;
  }
  
  #calc{
     opacity:0;
     }
-.body{
-   font-size: 700px;
-}           
+h1{
+   font-size: 100px ;
+}
